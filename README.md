@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nidita Roy</h1>
 <h3 align="center">Competitive Programmer| Web Developer | Machine Learning Enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nidita" alt="nidita" /></a> </p>
-
 - 🌱 I’m currently learning **Deep Learning**
 
 - 📝 I regularly write articles on [https://www.blogger.com/blog/posts/1882016273912424713](https://www.blogger.com/blog/posts/1882016273912424713)
@@ -15,7 +13,6 @@
 <a href="https://stackoverflow.com/users/16511236/nidita-roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16511236/nidita-roy" height="30" width="40" /></a>
 <a href="https://kaggle.com/niditaroy1804018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="niditaroy1804018" height="30" width="40" /></a>
 <a href="https://fb.com/nidita.roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nidita.roy" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/channel/ucpnsfsedp1gnblgkop5zpzw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/ucpnsfsedp1gnblgkop5zpzw" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/nidita" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nidita" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/u1804018" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="u1804018" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/u1804018/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="u1804018/" height="30" width="40" /></a>
