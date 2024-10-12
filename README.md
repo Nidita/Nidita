@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://www.blogger.com/blog/posts/1882016273912424713](https://www.blogger.com/blog/posts/1882016273912424713)
 
-- 📫 How to reach me **u1804018@student.cuet.ac.bd**
+- 📫 How to reach me **nidita.roy99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
