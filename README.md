@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nidita Roy</h1>
-<h3 align="center">Competitive Programmer | Web Developer | Machine Learning Enthusiast</h3>
+<h3 align="center">Artificial Intelligence | Competitive Programmer | Web Developer | Machine Learning Enthusiast</h3>
 
 - 🌱 I’m currently learning **Deep Learning**
 
