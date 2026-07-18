@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=15423A&height=180&section=header&text=Nidita%20Roy&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Graduate%20Researcher%20—%20Medical%20Image%20Analysis%20%26%20Continual%20Learning&descAlignY=58&descSize=18" width="100%" alt="Nidita Roy — Graduate Researcher, Medical Image Analysis & Continual Learning"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=15423A&height=180&section=header&text=Nidita%20Roy&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Graduate%20Researcher%20%E2%80%94%20Medical%20Image%20Analysis%20%26%20Continual%20Learning&descAlignY=58&descSize=18" width="100%" alt="Nidita Roy — Graduate Researcher, Medical Image Analysis & Continual Learning"/>
 
 <a href="https://asherymbilinyi.github.io/"><img src="https://img.shields.io/badge/Medical%20Computer%20Vision%20Lab-University%20of%20Victoria-15423A?style=for-the-badge" /></a>
 <a href="https://nidita.github.io/"><img src="https://img.shields.io/badge/Portfolio-nidita.github.io-15423A?style=for-the-badge" /></a>
