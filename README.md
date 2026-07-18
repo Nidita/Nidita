@@ -1,12 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1B3A57&height=180&section=header&text=Nidita%20Roy&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Graduate%20Researcher%20—%20Medical%20Image%20Analysis%20%26%20Continual%20Learning&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=15423A&height=180&section=header&text=Nidita%20Roy&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Graduate%20Researcher%20—%20Medical%20Image%20Analysis%20%26%20Continual%20Learning&descAlignY=58&descSize=18" width="100%" alt="Nidita Roy — Graduate Researcher, Medical Image Analysis & Continual Learning"/>
 
-<a href="https://asherymbilinyi.github.io/"><img src="https://img.shields.io/badge/Medical%20Computer%20Vision%20Lab-University%20of%20Victoria-1B3A57?style=for-the-badge" /></a>
+<a href="https://asherymbilinyi.github.io/"><img src="https://img.shields.io/badge/Medical%20Computer%20Vision%20Lab-University%20of%20Victoria-15423A?style=for-the-badge" /></a>
+<a href="https://nidita.github.io/"><img src="https://img.shields.io/badge/Portfolio-nidita.github.io-15423A?style=for-the-badge" /></a>
 
 <a href="mailto:niditaroy@uvic.ca"><img src="https://img.shields.io/badge/-niditaroy%40uvic.ca-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/nidita-roy-0537b31b0/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://scholar.google.com/citations?user=JVPYWQsAAAAJ&hl=en"><img src="https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" /></a>
+<a href="https://scholar.google.com/citations?user=JVPYWQsAAAAJ&hl=en"><img src="https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" /></a>
 <a href="https://kaggle.com/niditaroy1804018"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /></a>
 
 </div>
@@ -26,10 +27,14 @@ I develop deep learning methods for medical image analysis, with a focus on **co
 **Learning to Window: Context-Aware HU Adaptation for Continual Trauma Injury Detection in CT Scans**
 *Manuscript submitted, 2026 — lead author, MCV Lab, supervised by Dr. Ashery Mbilinyi*
 
+[![WACV 2027 · Under Review](https://img.shields.io/badge/WACV%202027-Under%20Review-74560E?style=flat-square)](https://wacv.thecvf.com/)
+
 A learnable windowing technique paired with context-aware Hounsfield Unit adaptation, so CT-based trauma-injury detection models can continually adapt to shifting imaging protocols and patient populations — without full retraining and without forgetting previously learned diagnostic tasks.
 
 **What Limits Continual Learning for Abdominal-Trauma CT Detection? A Diagnostic Study of Forgetting vs. Representation Bottlenecks**
 *Manuscript submitted, 2026*
+
+[![MICAD 2026 · In Preparation](https://img.shields.io/badge/MICAD%202026-In%20Preparation-7C858D?style=flat-square)](https://www.micad.org/)
 
 &nbsp;
 
@@ -42,7 +47,7 @@ A learnable windowing technique paired with context-aware Hounsfield Unit adapta
 | [Deep Learning for Wound Tissue Segmentation: A Comprehensive Evaluation Using a Novel Dataset](https://arxiv.org/abs/2502.10652) | arXiv preprint | 2025 | 🟡 Preprint | Literature review & implementation |
 | Learning to Window: Context-Aware HU Adaptation for Continual Trauma Injury Detection in CT Scans | — | 2026 | 🔵 Under review | Lead author |
 | What Limits Continual Learning for Abdominal-Trauma CT Detection? | — | 2026 | 🔵 Under review | Co-author |
-| Spinal Disease Detection via Deep Multimodal Fusion of X-ray Imagery and Demographic Features | *[venue to confirm]* | 2026 | 🟢 Accepted | BSc thesis, lead author |
+| [Spinal Disease Detection via Deep Multimodal Fusion of X-ray Imagery and Demographic Features](https://drive.google.com/drive/folders/12LjoJQtA8pEblI3PI1-BeRFlxQKf9A7Q) | [PECCII 2026](https://www.peccii.pust.ac.bd/) | 2026 | 🟢 Accepted & presented | BSc thesis, lead author |
 
 &nbsp;
 
@@ -92,6 +97,7 @@ A learnable windowing technique paired with context-aware Hounsfield Unit adapta
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
@@ -115,6 +121,7 @@ A learnable windowing technique paired with context-aware Hounsfield Unit adapta
 
 I welcome conversations about PhD opportunities, research collaboration, and projects in medical imaging, continual learning, and AI for healthcare.
 
-**Email:** [niditaroy@uvic.ca](mailto:niditaroy@uvic.ca) · **Portfolio:** *[add your Google Sites link once published]*
+**Email:** [niditaroy@uvic.ca](mailto:niditaroy@uvic.ca) · **Portfolio:** [nidita.github.io](https://nidita.github.io/)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1B3A57&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=15423A&height=100&section=footer" width="100%" alt=""/>
+
