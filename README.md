@@ -1,42 +1,118 @@
-<h1 align="center">Hi 👋, I'm Nidita Roy</h1>
+<h1 align="center">Nidita Roy</h1>
 <h3 align="center">Graduate Researcher — Medical Image Analysis & Continual Learning</h3>
-<h4 align="center">MSc Computer Science, University of Victoria</h4>
+<p align="center">MSc Computer Science, University of Victoria · Supervised by Dr. Ashery Mbilinyi</p>
 
-- 🔬 Currently researching **context-aware Hounsfield Unit adaptation and learnable windowing for continual trauma-injury detection in CT scans**, supervised by Dr. Ashery Mbilinyi
-- 🩻 Research interests: medical image analysis · continual/adaptive learning · multimodal deep learning for healthcare
-- 📄 Portfolio: **[your Google Sites link]**
-- 📫 Reach me at **niditaroy@uvic.ca**
-
-### Selected work
-- Context-Aware HU Adaptation for Continual Trauma-Injury Detection in CT Scans — *in progress*
-- [Deep Learning for Wound Tissue Segmentation: A Comprehensive Evaluation Using a Novel Dataset](https://arxiv.org/abs/2502.10652) — preprint, arXiv 2025
-- [Deep Learning Prediction Model for Patient Survival Outcomes in Palliative Care Using Actigraphy Data and Clinical Information](https://doi.org/10.3390/cancers15082232) — *Cancers*, 2023
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nidita-roy-0537b31b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nidita-roy-0537b31b0/" height="30" width="40" /></a>
-<a href="[add your confirmed Google Scholar link]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg" alt="Google Scholar" height="30" width="40" /></a>
-<a href="https://kaggle.com/niditaroy1804018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="niditaroy1804018" height="30" width="40" /></a>
+<p align="center">
+<a href="mailto:niditaroy@uvic.ca"><img src="https://img.shields.io/badge/-niditaroy%40uvic.ca-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/nidita-roy-0537b31b0/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" /></a>
+<a href="https://kaggle.com/niditaroy1804018"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Research & ML tools:</h3>
-<p align="left">
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-<a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
-<a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
-</p>
+*(Google Scholar badge is a placeholder — link it once you've confirmed which Scholar profile is currently yours.)*
+
+---
+
+## About
+
+I develop deep learning methods for medical image analysis, with a focus on **continual and multimodal learning** that remains reliable across heterogeneous clinical imaging data. My work spans CT windowing adaptation, multimodal fusion of imaging with clinical/demographic data, and image segmentation.
+
+**Research interests:** Medical Image Analysis · Continual & Adaptive Learning · Multimodal Deep Learning for Healthcare · Clinical & Physiological Data Integration
+
+---
+
+## 🔬 Current Research
+
+**Context-Aware HU Adaptation for Continual Trauma-Injury Detection in CT Scans**
+*In progress — MSc thesis, supervised by Dr. Ashery Mbilinyi*
+
+Investigating a learnable windowing technique paired with context-aware Hounsfield Unit adaptation, so CT-based trauma-injury detection models can continually adjust to shifting imaging protocols and patient populations rather than requiring full retraining.
+
+---
+
+## 📄 Publications
+
+| Title | Venue | Year | Status | My Role |
+|---|---|---|---|---|
+| [Deep Learning Prediction Model for Patient Survival Outcomes in Palliative Care Using Actigraphy Data and Clinical Information](https://doi.org/10.3390/cancers15082232) | *Cancers* | 2023 | Published | Statistical analysis; writing — original draft (2nd of 8 authors) |
+| [Enhancing Offensive Bengali Social Media Meme Detection: A Weighted Ensemble Architecture](https://ieeexplore.ieee.org/document/10441496/) | 26th ICCIT | 2023 | Published | Dataset creation & modelling *(author order to confirm)* |
+| [Deep Learning for Wound Tissue Segmentation: A Comprehensive Evaluation Using a Novel Dataset](https://arxiv.org/abs/2502.10652) | arXiv preprint | 2025 | Preprint | Literature review & implementation (2nd of 5 authors) |
+| Context-Aware HU Adaptation for Continual Trauma-Injury Detection in CT Scans | — | — | In preparation | Lead (current MSc thesis) |
+| *[Title to confirm — see note below]* | — | 2024 | Thesis (BSc) | Lead |
+
+> Note on the last row: my CV lists this as "Spinal Disease Detection via Deep Multimodal Fusion of X-ray Imagery and Demographic Features" (2026); my award records list it as "Deep Learning Approach to Classify Spine Abnormalities" (2024). I'm confirming the correct title/year and whether a manuscript is being prepared from it before adding a public link.
+
+---
+
+## 💻 Selected Projects
+
+| Project | Description | Stack | Link |
+|---|---|---|---|
+| Diabetes Prediction | Predicting diabetes risk from user health data | Flask, PHP, HTML, CSS, Bootstrap | [Repo](https://github.com/Nidita/Diabetes_prediction_machine_learning) |
+| Children Cloud | Day-care booking system | PHP, HTML, CSS, Bootstrap, MySQL, JavaScript | [Repo](https://github.com/Nidita/project_show) |
+| Chat-Site | Real-time chat application | MySQL, PHP, HTML, CSS | [Repo](https://github.com/Nidita/Chat) |
+| CGPA Calculator | Web-based GPA calculation tool | PHP, HTML, CSS | [Repo](https://github.com/Nidita/cgpa-calculator) |
+| Recipe Website | Recipe management site | HTML, CSS, Bootstrap | [Repo](https://github.com/Nidita/Cuisine) |
+
+*(These are earlier applied/web-development projects, kept here as a record of hands-on build experience — my current focus is the research work above.)*
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Detail |
+|---|---|---|
+| MSc, Computer Science | University of Victoria, Canada | Cumulative GPA 8.50/9.00 · Started Fall 2025 · Thesis in progress |
+| BSc, Computer Science and Engineering | *[institution to confirm]* | CGPA 3.68 (First Class) |
+
+---
+
+## 👩‍🏫 Teaching & Leadership
+
+- **Teaching Assistant, CSC 111** (Fundamentals of Programming with Engineering Applications), University of Victoria — Fall 2025–Spring 2026
+- **Vice President, CUET Computer Club** (2023–2024) — led organization of a national inter-university programming contest; coordinated technical workshops on Programming and Machine Learning
+- **General Member, CUET Computer Club** (2019–2023) — contributed to ~20 club events; received "Best Contributor" recognition
+- **Volunteer, Microsoft Learn Student Ambassadors** (2021)
 
 <details>
-<summary>Additional languages & tools (earlier web-development work)</summary>
-<p align="left">
-<a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-<a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
-</p>
+<summary>Additional recognitions</summary>
+
+- 8th (Sentiment Analysis of Code-Mixed Text) & 7th (Multimodal Sentiment Analysis) — 2nd International Workshop on Computational Linguistics & Bangla Language Processing, 2023
+- Industrial Attachment, RedDot Digital Ltd. (2023) — image processing for tobacco-leaf classification
+- Open Source Contributor, Hacktoberfest (2021)
+
 </details>
+
+---
+
+## 🛠️ Skills
+
+**Research & ML**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+<details>
+<summary>Additional tools (earlier web-development work)</summary>
+
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+</details>
+
+---
+
+## 📫 Get in Touch
+
+I welcome conversations about PhD opportunities, research collaboration, and projects in medical imaging, continual learning, and AI for healthcare.
+
+**Email:** [niditaroy@uvic.ca](mailto:niditaroy@uvic.ca) · **Portfolio:** *[add your Google Sites link once published]*
