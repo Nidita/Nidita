@@ -1,77 +1,77 @@
-<h1 align="center">Nidita Roy</h1>
-<h3 align="center">Graduate Researcher — Medical Image Analysis & Continual Learning</h3>
-<p align="center">MSc Computer Science, University of Victoria · Supervised by Dr. Ashery Mbilinyi</p>
+<div align="center">
 
-<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1B3A57&height=180&section=header&text=Nidita%20Roy&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Graduate%20Researcher%20—%20Medical%20Image%20Analysis%20%26%20Continual%20Learning&descAlignY=58&descSize=18" width="100%"/>
+
+<a href="https://asherymbilinyi.github.io/"><img src="https://img.shields.io/badge/Medical%20Computer%20Vision%20Lab-University%20of%20Victoria-1B3A57?style=for-the-badge" /></a>
+
 <a href="mailto:niditaroy@uvic.ca"><img src="https://img.shields.io/badge/-niditaroy%40uvic.ca-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/nidita-roy-0537b31b0/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" /></a>
+<a href="https://scholar.google.com/citations?user=JVPYWQsAAAAJ&hl=en"><img src="https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" /></a>
 <a href="https://kaggle.com/niditaroy1804018"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /></a>
-</p>
 
-*(Google Scholar badge is a placeholder — link it once you've confirmed which Scholar profile is currently yours.)*
+</div>
 
----
+&nbsp;
 
 ## About
 
-I develop deep learning methods for medical image analysis, with a focus on **continual and multimodal learning** that remains reliable across heterogeneous clinical imaging data. My work spans CT windowing adaptation, multimodal fusion of imaging with clinical/demographic data, and image segmentation.
+I develop deep learning methods for medical image analysis, with a focus on **continual and multimodal learning** that remains reliable across heterogeneous clinical imaging data. My work spans CT windowing adaptation, multimodal fusion of imaging with clinical/demographic data, and image segmentation — with a long-term goal of building accessible AI tools for healthcare delivery in underserved settings.
 
-**Research interests:** Medical Image Analysis · Continual & Adaptive Learning · Multimodal Deep Learning for Healthcare · Clinical & Physiological Data Integration
+`Medical Image Analysis`&nbsp;·&nbsp;`Continual & Adaptive Learning`&nbsp;·&nbsp;`Multimodal Deep Learning for Healthcare`&nbsp;·&nbsp;`Clinical & Physiological Data Integration`
 
----
+&nbsp;
 
 ## 🔬 Current Research
 
-**Context-Aware HU Adaptation for Continual Trauma-Injury Detection in CT Scans**
-*In progress — MSc thesis, supervised by Dr. Ashery Mbilinyi*
+**Learning to Window: Context-Aware HU Adaptation for Continual Trauma Injury Detection in CT Scans**
+*Manuscript submitted, 2026 — lead author, MCV Lab, supervised by Dr. Ashery Mbilinyi*
 
-Investigating a learnable windowing technique paired with context-aware Hounsfield Unit adaptation, so CT-based trauma-injury detection models can continually adjust to shifting imaging protocols and patient populations rather than requiring full retraining.
+A learnable windowing technique paired with context-aware Hounsfield Unit adaptation, so CT-based trauma-injury detection models can continually adapt to shifting imaging protocols and patient populations — without full retraining and without forgetting previously learned diagnostic tasks.
 
----
+**What Limits Continual Learning for Abdominal-Trauma CT Detection? A Diagnostic Study of Forgetting vs. Representation Bottlenecks**
+*Manuscript submitted, 2026*
+
+&nbsp;
 
 ## 📄 Publications
 
 | Title | Venue | Year | Status | My Role |
 |---|---|---|---|---|
-| [Deep Learning Prediction Model for Patient Survival Outcomes in Palliative Care Using Actigraphy Data and Clinical Information](https://doi.org/10.3390/cancers15082232) | *Cancers* | 2023 | Published | Statistical analysis; writing — original draft (2nd of 8 authors) |
-| [Enhancing Offensive Bengali Social Media Meme Detection: A Weighted Ensemble Architecture](https://ieeexplore.ieee.org/document/10441496/) | 26th ICCIT | 2023 | Published | Dataset creation & modelling *(author order to confirm)* |
-| [Deep Learning for Wound Tissue Segmentation: A Comprehensive Evaluation Using a Novel Dataset](https://arxiv.org/abs/2502.10652) | arXiv preprint | 2025 | Preprint | Literature review & implementation (2nd of 5 authors) |
-| Context-Aware HU Adaptation for Continual Trauma-Injury Detection in CT Scans | — | — | In preparation | Lead (current MSc thesis) |
-| *[Title to confirm — see note below]* | — | 2024 | Thesis (BSc) | Lead |
+| [Deep Learning Prediction Model for Patient Survival Outcomes in Palliative Care Using Actigraphy Data and Clinical Information](https://doi.org/10.3390/cancers15082232) | *Cancers* | 2023 | ✅ Published | Statistical analysis · writing — original draft |
+| [Enhancing Offensive Bengali Social Media Meme Detection: A Weighted Ensemble Architecture](https://ieeexplore.ieee.org/abstract/document/10441496) | 26th ICCIT | 2023 | ✅ Published | Dataset creation & modelling |
+| [Deep Learning for Wound Tissue Segmentation: A Comprehensive Evaluation Using a Novel Dataset](https://arxiv.org/abs/2502.10652) | arXiv preprint | 2025 | 🟡 Preprint | Literature review & implementation |
+| Learning to Window: Context-Aware HU Adaptation for Continual Trauma Injury Detection in CT Scans | — | 2026 | 🔵 Under review | Lead author |
+| What Limits Continual Learning for Abdominal-Trauma CT Detection? | — | 2026 | 🔵 Under review | Co-author |
+| Spinal Disease Detection via Deep Multimodal Fusion of X-ray Imagery and Demographic Features | *[venue to confirm]* | 2026 | 🟢 Accepted | BSc thesis, lead author |
 
-> Note on the last row: my CV lists this as "Spinal Disease Detection via Deep Multimodal Fusion of X-ray Imagery and Demographic Features" (2026); my award records list it as "Deep Learning Approach to Classify Spine Abnormalities" (2024). I'm confirming the correct title/year and whether a manuscript is being prepared from it before adding a public link.
-
----
+&nbsp;
 
 ## 💻 Selected Projects
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
-| Diabetes Prediction | Predicting diabetes risk from user health data | Flask, PHP, HTML, CSS, Bootstrap | [Repo](https://github.com/Nidita/Diabetes_prediction_machine_learning) |
+| Diabetes Prediction | Open-source tool predicting diabetes risk, publicly released to improve access to preventive healthcare | Flask, PHP, HTML, CSS, Bootstrap | [Repo](https://github.com/Nidita/Diabetes_prediction_machine_learning) |
 | Children Cloud | Day-care booking system | PHP, HTML, CSS, Bootstrap, MySQL, JavaScript | [Repo](https://github.com/Nidita/project_show) |
 | Chat-Site | Real-time chat application | MySQL, PHP, HTML, CSS | [Repo](https://github.com/Nidita/Chat) |
 | CGPA Calculator | Web-based GPA calculation tool | PHP, HTML, CSS | [Repo](https://github.com/Nidita/cgpa-calculator) |
 | Recipe Website | Recipe management site | HTML, CSS, Bootstrap | [Repo](https://github.com/Nidita/Cuisine) |
 
-*(These are earlier applied/web-development projects, kept here as a record of hands-on build experience — my current focus is the research work above.)*
-
----
+&nbsp;
 
 ## 🎓 Education
 
 | Degree | Institution | Detail |
 |---|---|---|
-| MSc, Computer Science | University of Victoria, Canada | Cumulative GPA 8.50/9.00 · Started Fall 2025 · Thesis in progress |
+| MSc, Computer Science | University of Victoria, Canada | Cumulative GPA 8.50/9.0 (first term 9.00/9.0) · Started Fall 2025 |
 | BSc, Computer Science and Engineering | *[institution to confirm]* | CGPA 3.68 (First Class) |
 
----
+&nbsp;
 
 ## 👩‍🏫 Teaching & Leadership
 
-- **Teaching Assistant, CSC 111** (Fundamentals of Programming with Engineering Applications), University of Victoria — Fall 2025–Spring 2026
-- **Vice President, CUET Computer Club** (2023–2024) — led organization of a national inter-university programming contest; coordinated technical workshops on Programming and Machine Learning
-- **General Member, CUET Computer Club** (2019–2023) — contributed to ~20 club events; received "Best Contributor" recognition
+- **Teaching Assistant, CSC 111**, University of Victoria — Fall 2025–Spring 2026, mentored 50+ undergraduate students
+- **Vice President, CUET Computer Club** (2023–2024) — led a national inter-university programming contest and AI/ML workshops
+- **General Member, CUET Computer Club** (2019–2023) — "Best Contributor" recognition, ~20 events
 - **Volunteer, Microsoft Learn Student Ambassadors** (2021)
 
 <details>
@@ -83,7 +83,7 @@ Investigating a learnable windowing technique paired with context-aware Hounsfie
 
 </details>
 
----
+&nbsp;
 
 ## 🛠️ Skills
 
@@ -109,10 +109,12 @@ Investigating a learnable windowing technique paired with context-aware Hounsfie
 
 </details>
 
----
+&nbsp;
 
 ## 📫 Get in Touch
 
 I welcome conversations about PhD opportunities, research collaboration, and projects in medical imaging, continual learning, and AI for healthcare.
 
 **Email:** [niditaroy@uvic.ca](mailto:niditaroy@uvic.ca) · **Portfolio:** *[add your Google Sites link once published]*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1B3A57&height=100&section=footer" width="100%"/>
