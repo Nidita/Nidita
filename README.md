@@ -68,7 +68,7 @@ A learnable windowing technique paired with context-aware Hounsfield Unit adapta
 | Degree | Institution | Detail |
 |---|---|---|
 | MSc, Computer Science | University of Victoria, Canada | Cumulative GPA 8.50/9.0 (first term 9.00/9.0) · Started Fall 2025 |
-| BSc, Computer Science and Engineering | Chittagong University of Engineering & Technology | CGPA 3.68 (First Class) |
+| BSc, Computer Science and Engineering | Chittagong University of Engineering & Technology, Bangladesh | CGPA 3.68 (First Class) |
 
 &nbsp;
 
