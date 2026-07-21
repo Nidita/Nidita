@@ -27,7 +27,7 @@ I develop deep learning methods for medical image analysis, with a focus on **co
 **Learning to Window: Context-Aware HU Adaptation for Continual Trauma Injury Detection in CT Scans**
 *Manuscript submitted, 2026 — lead author, MCV Lab, supervised by Dr. Ashery Mbilinyi*
 
-[![WACV 2027 · Under Review](https://img.shields.io/badge/WACV%202027-Under%20Review-74560E?style=flat-square)](https://wacv.thecvf.com/)
+![Status](https://img.shields.io/badge/Status-Under%20Review-74560E?style=flat-square)
 
 A learnable windowing technique paired with context-aware Hounsfield Unit adaptation, so CT-based trauma-injury detection models can continually adapt to shifting imaging protocols and patient populations — without full retraining and without forgetting previously learned diagnostic tasks.
 
@@ -123,5 +123,5 @@ I welcome conversations about PhD opportunities, research collaboration, and pro
 
 **Email:** [niditaroy@uvic.ca](mailto:niditaroy@uvic.ca) · **Portfolio:** [nidita.github.io](https://nidita.github.io/)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=15423A&height=100&section=footer" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=15423A&height=100&section=footer" width="100%" alt=""/>apsule-render.vercel.app/api?type=waving&color=15423A&height=100&section=footer" width="100%" alt=""/>
 
