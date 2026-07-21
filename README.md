@@ -122,5 +122,4 @@ A diagnostic study asking whether weak continual-learning performance on abdomin
 I welcome conversations about PhD opportunities, research collaboration, and projects in medical imaging, continual learning, and AI for healthcare.
 
 **Email:** [niditaroy@uvic.ca](mailto:niditaroy@uvic.ca) · **Portfolio:** [nidita.github.io](https://nidita.github.io/)
-<img src="https://capsule-render.vercel.app/api?type=waving&color=15423A&height=100&section=footer" width="100%" alt=""/>apsule-render.vercel.app/api?type=waving&color=15423A&height=100&section=footer" width="100%" alt=""/>
 
