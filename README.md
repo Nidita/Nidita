@@ -24,17 +24,17 @@ I develop deep learning methods for medical image analysis, with a focus on **co
 
 ## 🔬 Current Research
 
-**Manuscript I — lead author**
-*Manuscript submitted, 2026 — MCV Lab, supervised by Dr. Ashery Mbilinyi*
+*Manuscript submitted, 2026 — lead author, MCV Lab, supervised by Dr. Ashery Mbilinyi*
 
 ![Status](https://img.shields.io/badge/Status-Under%20Review-74560E?style=flat-square)
 
 A learnable windowing technique paired with context-aware Hounsfield Unit adaptation, so CT-based trauma-injury detection models can continually adapt to shifting imaging protocols and patient populations — without full retraining and without forgetting previously learned diagnostic tasks.
 
-**Manuscript II — co-author**
-*Manuscript submitted, 2026*
+*Manuscript submitted, 2026 — co-author*
 
 ![Status](https://img.shields.io/badge/Status-Submitted-74560E?style=flat-square)
+
+A diagnostic study asking whether weak continual-learning performance on abdominal-trauma CT detection is really caused by catastrophic forgetting, or by deeper issues in data representation and label granularity.
 
 &nbsp;
 
@@ -45,8 +45,8 @@ A learnable windowing technique paired with context-aware Hounsfield Unit adapta
 | [Deep Learning Prediction Model for Patient Survival Outcomes in Palliative Care Using Actigraphy Data and Clinical Information](https://doi.org/10.3390/cancers15082232) | *Cancers* | 2023 | ✅ Published | Statistical analysis · writing — original draft |
 | [Enhancing Offensive Bengali Social Media Meme Detection: A Weighted Ensemble Architecture](https://ieeexplore.ieee.org/abstract/document/10441496) | 26th ICCIT | 2023 | ✅ Published | Dataset creation & modelling |
 | [Deep Learning for Wound Tissue Segmentation: A Comprehensive Evaluation Using a Novel Dataset](https://arxiv.org/abs/2502.10652) | arXiv preprint | 2025 | 🟡 Preprint | Literature review & implementation |
-| Manuscript I (title withheld until publication) | — | 2026 | 🔵 Under review | Lead author |
-| Manuscript II (title withheld until publication) | — | 2026 | 🔵 Submitted | Co-author |
+| Learnable CT-windowing for continual trauma-injury detection | — | 2026 | 🔵 Under review | Lead author |
+| Diagnostic study on continual-learning limits for abdominal-trauma CT detection | — | 2026 | 🔵 Submitted | Co-author |
 | [Spinal Disease Detection via Deep Multimodal Fusion of X-ray Imagery and Demographic Features](https://drive.google.com/drive/folders/12LjoJQtA8pEblI3PI1-BeRFlxQKf9A7Q) | [PECCII 2026](https://www.peccii.pust.ac.bd/) | 2026 | 🟢 Accepted & presented | BSc thesis, lead author |
 
 &nbsp;
@@ -122,6 +122,5 @@ A learnable windowing technique paired with context-aware Hounsfield Unit adapta
 I welcome conversations about PhD opportunities, research collaboration, and projects in medical imaging, continual learning, and AI for healthcare.
 
 **Email:** [niditaroy@uvic.ca](mailto:niditaroy@uvic.ca) · **Portfolio:** [nidita.github.io](https://nidita.github.io/)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=15423A&height=100&section=footer" width="100%" alt=""/>apsule-render.vercel.app/api?type=waving&color=15423A&height=100&section=footer" width="100%" alt=""/>
 
