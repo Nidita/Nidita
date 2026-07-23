@@ -29,8 +29,6 @@ I develop deep learning methods for medical image analysis, with a focus on **co
 | [Deep Learning Prediction Model for Patient Survival Outcomes in Palliative Care Using Actigraphy Data and Clinical Information](https://doi.org/10.3390/cancers15082232) | *Cancers* | 2023 | ✅ Published | Statistical analysis · writing — original draft |
 | [Enhancing Offensive Bengali Social Media Meme Detection: A Weighted Ensemble Architecture](https://ieeexplore.ieee.org/abstract/document/10441496) | 26th ICCIT | 2023 | ✅ Published | Dataset creation & modelling |
 | [Deep Learning for Wound Tissue Segmentation: A Comprehensive Evaluation Using a Novel Dataset](https://arxiv.org/abs/2502.10652) | arXiv preprint | 2025 | 🟡 Preprint | Literature review & implementation |
-| Learnable CT-windowing for continual trauma-injury detection | — | 2026 | 🔵 Under review | Lead author |
-| Diagnostic study on continual-learning limits for abdominal-trauma CT detection | — | 2026 | 🔵 Submitted | Co-author |
 | [Spinal Disease Detection via Deep Multimodal Fusion of X-ray Imagery and Demographic Features](https://drive.google.com/drive/folders/12LjoJQtA8pEblI3PI1-BeRFlxQKf9A7Q) | [PECCII 2026](https://www.peccii.pust.ac.bd/) | 2026 | 🟢 Accepted & presented | BSc thesis, lead author |
 
 &nbsp;
