@@ -22,22 +22,6 @@ I develop deep learning methods for medical image analysis, with a focus on **co
 
 &nbsp;
 
-## 🔬 Current Research
-
-*Manuscript submitted, 2026 — lead author, MCV Lab, supervised by Dr. Ashery Mbilinyi*
-
-![Status](https://img.shields.io/badge/Status-Under%20Review-74560E?style=flat-square)
-
-A learnable windowing technique paired with context-aware Hounsfield Unit adaptation, so CT-based trauma-injury detection models can continually adapt to shifting imaging protocols and patient populations — without full retraining and without forgetting previously learned diagnostic tasks.
-
-*Manuscript submitted, 2026 — co-author*
-
-![Status](https://img.shields.io/badge/Status-Submitted-74560E?style=flat-square)
-
-A diagnostic study asking whether weak continual-learning performance on abdominal-trauma CT detection is really caused by catastrophic forgetting, or by deeper issues in data representation and label granularity.
-
-&nbsp;
-
 ## 📄 Publications
 
 | Title | Venue | Year | Status | My Role |
@@ -122,4 +106,3 @@ A diagnostic study asking whether weak continual-learning performance on abdomin
 I welcome conversations about PhD opportunities, research collaboration, and projects in medical imaging, continual learning, and AI for healthcare.
 
 **Email:** [niditaroy@uvic.ca](mailto:niditaroy@uvic.ca) · **Portfolio:** [nidita.github.io](https://nidita.github.io/)
-
