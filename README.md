@@ -26,6 +26,7 @@ I develop deep learning methods for medical image analysis, with a focus on **co
 
 | Title | Venue | Year | Status | My Role |
 |---|---|---|---|---|
+| [Paper title — TBA] | [MICAD 2026](https://www.spiedigitallibrary.org/) (7th International Conference on Medical Imaging and Computer-Aided Diagnosis) | 2026 | 🟢 Accepted | Lead author |
 | [Deep Learning Prediction Model for Patient Survival Outcomes in Palliative Care Using Actigraphy Data and Clinical Information](https://doi.org/10.3390/cancers15082232) | *Cancers* | 2023 | ✅ Published | Statistical analysis · writing — original draft |
 | [Enhancing Offensive Bengali Social Media Meme Detection: A Weighted Ensemble Architecture](https://ieeexplore.ieee.org/abstract/document/10441496) | 26th ICCIT | 2023 | ✅ Published | Dataset creation & modelling |
 | [Deep Learning for Wound Tissue Segmentation: A Comprehensive Evaluation Using a Novel Dataset](https://arxiv.org/abs/2502.10652) | arXiv preprint | 2025 | 🟡 Preprint | Literature review & implementation |
