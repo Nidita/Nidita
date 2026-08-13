@@ -14,6 +14,10 @@
 
 &nbsp;
 
+> 🎉 **New paper accepted!** *"What Limits Continual Learning for Abdominal-Trauma CT Detection? A Diagnostic Study of Forgetting vs. Representation Bottlenecks"* — accepted at **MICAD 2026** (7th International Conference on Medical Imaging and Computer-Aided Diagnosis), as **lead author**. [Read the paper →](https://drive.google.com/file/d/1Q9G2xBy_uCBrMVlH6SwZ3UEdWXWPRsQ0/view?usp=sharing)
+
+&nbsp;
+
 ## About
 
 I develop deep learning methods for medical image analysis, with a focus on **continual and multimodal learning** that remains reliable across heterogeneous clinical imaging data. My work spans CT windowing adaptation, multimodal fusion of imaging with clinical/demographic data, and image segmentation — with a long-term goal of building accessible AI tools for healthcare delivery in underserved settings.
@@ -26,7 +30,7 @@ I develop deep learning methods for medical image analysis, with a focus on **co
 
 | Title | Venue | Year | Status | My Role |
 |---|---|---|---|---|
-| [Paper title — TBA] | [MICAD 2026](https://www.spiedigitallibrary.org/) (7th International Conference on Medical Imaging and Computer-Aided Diagnosis) | 2026 | 🟢 Accepted | Lead author |
+| [What Limits Continual Learning for Abdominal-Trauma CT Detection? A Diagnostic Study of Forgetting vs. Representation Bottlenecks](https://drive.google.com/file/d/1Q9G2xBy_uCBrMVlH6SwZ3UEdWXWPRsQ0/view?usp=sharing) | [MICAD 2026](https://drive.google.com/file/d/1Q9G2xBy_uCBrMVlH6SwZ3UEdWXWPRsQ0/view?usp=sharing) (7th International Conference on Medical Imaging and Computer-Aided Diagnosis) | 2026 | 🟢 Accepted | Lead author |
 | [Deep Learning Prediction Model for Patient Survival Outcomes in Palliative Care Using Actigraphy Data and Clinical Information](https://doi.org/10.3390/cancers15082232) | *Cancers* | 2023 | ✅ Published | Statistical analysis · writing — original draft |
 | [Enhancing Offensive Bengali Social Media Meme Detection: A Weighted Ensemble Architecture](https://ieeexplore.ieee.org/abstract/document/10441496) | 26th ICCIT | 2023 | ✅ Published | Dataset creation & modelling |
 | [Deep Learning for Wound Tissue Segmentation: A Comprehensive Evaluation Using a Novel Dataset](https://arxiv.org/abs/2502.10652) | arXiv preprint | 2025 | 🟡 Preprint | Literature review & implementation |
