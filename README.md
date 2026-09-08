@@ -1,111 +1,301 @@
 <div align="center">
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=15423A&height=180&section=header&text=Nidita%20Roy&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Graduate%20Researcher%20%E2%80%94%20Medical%20Image%20Analysis%20%26%20Continual%20Learning&descAlignY=58&descSize=18" width="100%" alt="Nidita Roy — Graduate Researcher, Medical Image Analysis & Continual Learning"/> -->
+<a href="https://asherymbilinyi.github.io/"><img src="https://img.shields.io/badge/Medical%20Computer%20Vision%20Lab-University%20of%20Victoria-15423A?style=for-the-badge" alt="Medical Computer Vision Lab — University of Victoria" /></a>
+<a href="https://nidita.github.io/"><img src="https://img.shields.io/badge/Portfolio-nidita.github.io-15423A?style=for-the-badge" alt="Portfolio" /></a>
 
-<a href="https://asherymbilinyi.github.io/"><img src="https://img.shields.io/badge/Medical%20Computer%20Vision%20Lab-University%20of%20Victoria-15423A?style=for-the-badge" /></a>
-<a href="https://nidita.github.io/"><img src="https://img.shields.io/badge/Portfolio-nidita.github.io-15423A?style=for-the-badge" /></a>
-
-<a href="mailto:niditaroy@uvic.ca"><img src="https://img.shields.io/badge/-niditaroy%40uvic.ca-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/nidita-roy-0537b31b0/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://scholar.google.com/citations?user=JVPYWQsAAAAJ&hl=en"><img src="https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" /></a>
-<a href="https://kaggle.com/niditaroy1804018"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /></a>
+<a href="mailto:niditaroy@uvic.ca"><img src="https://img.shields.io/badge/-niditaroy%40uvic.ca-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://linkedin.com/in/nidita-roy-0537b31b0/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://scholar.google.com/citations?user=JVPYWQsAAAAJ&hl=en"><img src="https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
+<a href="https://github.com/Nidita"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://kaggle.com/niditaroy1804018"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
 
 </div>
 
-&nbsp;
+ 
 
-> 🎉 **New paper accepted!** *"What Limits Continual Learning for Abdominal-Trauma CT Detection? A Diagnostic Study of Forgetting vs. Representation Bottlenecks"* — accepted at **MICAD 2026** (7th International Conference on Medical Imaging and Computer-Aided Diagnosis), as **lead author**. [Read the paper →](https://drive.google.com/file/d/1Q9G2xBy_uCBrMVlH6SwZ3UEdWXWPRsQ0/view?usp=sharing)
+🎉 Recent paper accepted: “What Limits Continual Learning for Abdominal-Trauma CT Detection? A Diagnostic Study of Forgetting vs. Representation Bottlenecks” — accepted at MICAD 2026, with co-lead authorship and corresponding authorship. Paper · Code
 
-&nbsp;
+ 
 
-## About
+About
 
-I develop deep learning methods for medical image analysis, with a focus on **continual and multimodal learning** that remains reliable across heterogeneous clinical imaging data. My work spans CT windowing adaptation, multimodal fusion of imaging with clinical/demographic data, and image segmentation — with a long-term goal of building accessible AI tools for healthcare delivery in underserved settings.
+I am an MSc researcher in Computer Science at the University of Victoria, working in the Medical Computer Vision Lab. My research focuses on building medical-imaging systems that can learn new clinical tasks while preserving useful prior knowledge.
 
-`Medical Image Analysis`&nbsp;·&nbsp;`Continual & Adaptive Learning`&nbsp;·&nbsp;`Multimodal Deep Learning for Healthcare`&nbsp;·&nbsp;`Clinical & Physiological Data Integration`
+My current thesis direction is Class-Incremental Learning with Modality-Aware Representation Primitives. I am investigating task-conditioned representations for CT and MRI, including MRI pulse-sequence-aware modeling across T1-weighted, T2-weighted, FLAIR, and DWI data. More broadly, I am interested in continual learning, representation learning, multimodal healthcare AI, and reliable learning from heterogeneous clinical data.
 
-&nbsp;
+Medical Image Analysis · Class-Incremental Learning · Modality-Aware Representation Learning · Multimodal Healthcare AI
 
-## 📄 Publications
+ 
 
-| Title | Venue | Year | Status | My Role |
-|---|---|---|---|---|
-| [What Limits Continual Learning for Abdominal-Trauma CT Detection? A Diagnostic Study of Forgetting vs. Representation Bottlenecks](https://drive.google.com/file/d/1Q9G2xBy_uCBrMVlH6SwZ3UEdWXWPRsQ0/view?usp=sharing) | [MICAD 2026](https://drive.google.com/file/d/1Q9G2xBy_uCBrMVlH6SwZ3UEdWXWPRsQ0/view?usp=sharing) (7th International Conference on Medical Imaging and Computer-Aided Diagnosis) | 2026 | 🟢 Accepted | Lead author |
-| [Deep Learning Prediction Model for Patient Survival Outcomes in Palliative Care Using Actigraphy Data and Clinical Information](https://doi.org/10.3390/cancers15082232) | *Cancers* | 2023 | ✅ Published | Statistical analysis · writing — original draft |
-| [Enhancing Offensive Bengali Social Media Meme Detection: A Weighted Ensemble Architecture](https://ieeexplore.ieee.org/abstract/document/10441496) | 26th ICCIT | 2023 | ✅ Published | Dataset creation & modelling |
-| [Deep Learning for Wound Tissue Segmentation: A Comprehensive Evaluation Using a Novel Dataset](https://arxiv.org/abs/2502.10652) | arXiv preprint | 2025 | 🟡 Preprint | Literature review & implementation |
-| [Spinal Disease Detection via Deep Multimodal Fusion of X-ray Imagery and Demographic Features](https://drive.google.com/drive/folders/12LjoJQtA8pEblI3PI1-BeRFlxQKf9A7Q) | [PECCII 2026](https://www.peccii.pust.ac.bd/) | 2026 | 🟢 Accepted & presented | BSc thesis, lead author |
+🔬 Current Research
 
-&nbsp;
+Class-Incremental Learning with Modality-Aware Representation Primitives
 
-## 💻 Selected Projects
+My preliminary MSc thesis investigates whether modality-aware representations can improve continual learning across sequential medical-imaging tasks.
 
-| Project | Description | Stack | Link |
-|---|---|---|---|
-| Diabetes Prediction | Open-source tool predicting diabetes risk, publicly released to improve access to preventive healthcare | Flask, PHP, HTML, CSS, Bootstrap | [Repo](https://github.com/Nidita/Diabetes_prediction_machine_learning) |
-| Children Cloud | Day-care booking system | PHP, HTML, CSS, Bootstrap, MySQL, JavaScript | [Repo](https://github.com/Nidita/project_show) |
-| Chat-Site | Real-time chat application | MySQL, PHP, HTML, CSS | [Repo](https://github.com/Nidita/Chat) |
-| CGPA Calculator | Web-based GPA calculation tool | PHP, HTML, CSS | [Repo](https://github.com/Nidita/cgpa-calculator) |
-| Recipe Website | Recipe management site | HTML, CSS, Bootstrap | [Repo](https://github.com/Nidita/Cuisine) |
+CT: develop task-conditioned representation primitives that adapt to clinically meaningful intensity structure using learned task embeddings.
 
-&nbsp;
+MRI: design pulse-sequence-aware representations for T1-weighted, T2-weighted, FLAIR, and DWI imaging.
 
-## 🎓 Education
+Continual learning: integrate these representations into class-incremental learning pipelines and compare them with standard continual-learning approaches.
 
-| Degree | Institution | Detail |
-|---|---|---|
-| MSc, Computer Science | University of Victoria, Canada | Cumulative GPA 8.50/9.0 (first term 9.00/9.0) · Started Fall 2025 |
-| BSc, Computer Science and Engineering | Chittagong University of Engineering & Technology, Bangladesh | CGPA 3.68 (First Class) |
+Evaluation: study knowledge retention, forward transfer, and performance across sequential medical-imaging tasks.
 
-&nbsp;
+Candidate MRI datasets under consideration include BraTS, AOMIC ID1000, and ADNI, subject to suitability for sequence-aware and modality-aware experiments.
 
-## 👩‍🏫 Teaching & Leadership
+ 
 
-- **Teaching Assistant, CSC 111**, University of Victoria — Fall 2025–Spring 2026, mentored 50+ undergraduate students
-- **Vice President, CUET Computer Club** (2023–2024) — led a national inter-university programming contest and AI/ML workshops
-- **General Member, CUET Computer Club** (2019–2023) — "Best Contributor" recognition, ~20 events
-- **Volunteer, Microsoft Learn Student Ambassadors** (2021)
+📄 Publications
+
+Title
+
+Venue
+
+Year
+
+Status
+
+My Role
+
+What Limits Continual Learning for Abdominal-Trauma CT Detection? A Diagnostic Study of Forgetting vs. Representation Bottlenecks
+
+MICAD 2026 — 7th International Conference on Medical Imaging and Computer-Aided Diagnosis
+
+2026
+
+🟢 Accepted
+
+Co-lead author · corresponding author · experimental design · implementation · writing
+
+Spinal Disease Detection via Deep Multimodal Fusion of X-ray Imagery and Demographic Features
+
+IEEE / PECCII 2026
+
+2026
+
+✅ Published
+
+Lead author · BSc thesis
+
+Deep Learning Prediction Model for Patient Survival Outcomes in Palliative Care Using Actigraphy Data and Clinical Information
+
+Cancers
+
+2023
+
+✅ Published
+
+Methodology · statistical analysis · writing—original draft
+
+Enhancing Offensive Bengali Social Media Meme Detection: A Weighted Ensemble Architecture for Predicting Type and Target Classes
+
+26th International Conference on Computer and Information Technology (ICCIT)
+
+2023
+
+✅ Published
+
+Dataset creation · modeling
+
+Deep Learning for Wound Tissue Segmentation: A Comprehensive Evaluation Using a Novel Dataset
+
+arXiv preprint
+
+2025
+
+🟡 Preprint
+
+Data creation · literature review · implementation
+
+ 
+
+💻 Research Implementations
+
+Project
+
+Description
+
+Stack
+
+Link
+
+Modality-Aware Representation Primitives
+
+Ongoing framework for class-incremental medical-imaging experiments across CT and MRI, including task-conditioned and sequence-aware representations
+
+Python, PyTorch, CT, MRI
+
+Research overview
+
+Abdominal-Trauma CT Continual Learning
+
+Reproducibility code for the MICAD 2026 study, including class-incremental and domain-incremental experiments, EWC, Replay, LwF, pretrained representations, and attention-based MIL
+
+PyTorch, EWC, Replay, LwF, MIL
+
+Repository
+
+Wound Tissue Segmentation
+
+Implementation and data-creation work supporting evaluation across full-image, patch, and superpixel formulations
+
+Segmentation, UNet, FPN, cGAN
+
+Preprint · Repository
 
 <details>
-<summary>Additional recognitions</summary>
+<summary>Earlier software projects</summary>
 
-- 8th (Sentiment Analysis of Code-Mixed Text) & 7th (Multimodal Sentiment Analysis) — 2nd International Workshop on Computational Linguistics & Bangla Language Processing, 2023
-- Industrial Attachment, RedDot Digital Ltd. (2023) — image processing for tobacco-leaf classification
-- Open Source Contributor, Hacktoberfest (2021)
+Project
+
+Description
+
+Stack
+
+Link
+
+Diabetes Prediction
+
+Applied machine-learning system for diabetes-risk prediction through a web interface
+
+Flask, Python, PHP, HTML/CSS, Bootstrap
+
+Repo
+
+Children Cloud
+
+Day-care booking and management system
+
+PHP, HTML, CSS, Bootstrap, MySQL, JavaScript
+
+Repo
+
+Chat-Site
+
+Browser-based chat application
+
+PHP, MySQL, HTML, CSS
+
+Repo
+
+CGPA Calculator
+
+Web-based GPA calculation utility
+
+PHP, HTML, CSS
+
+Repo
+
+Recipe Website
+
+Recipe browsing and management website
+
+HTML, CSS, Bootstrap, JavaScript
+
+Repo
 
 </details>
 
-&nbsp;
+ 
 
-## 🛠️ Skills
+🎓 Education
 
-**Research & ML**
+Degree
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+Institution
+
+Detail
+
+MSc, Computer Science
+
+University of Victoria, Canada
+
+Cumulative GPA 8.50/9.0 · Started Fall 2025
+
+BSc, Computer Science and Engineering
+
+Chittagong University of Engineering & Technology, Bangladesh
+
+CGPA 3.68/4.0 · First Class
+
+ 
+
+🏅 Awards & Funding
+
+Faculty of Graduate Studies Fellowship, University of Victoria — 2026–2027: CAD $20,000
+
+Faculty of Graduate Studies Fellowship, University of Victoria — 2025–2026
+
+ 
+
+👩‍🏫 Teaching & Leadership
+
+Teaching Assistant, CSC 110, University of Victoria — Fall 2026, 100 hours
+
+Academic Assistant, Course Based Testing Facility, University of Victoria — Fall 2026, 25 hours
+
+Teaching Assistant, CSC 111, University of Victoria — Fall 2025–Spring 2026; supported 50+ undergraduate students
+
+Vice President, CUET Computer Club — 2023–2024; helped lead a national inter-university programming contest, programming and machine-learning workshops, and other technical events
+
+General Member, CUET Computer Club — 2019–2023; contributed to approximately 20 events and received a Best Contributor recognition
+
+Microsoft Learn Student Ambassador — reached the Alpha milestone in 2021
 
 <details>
-<summary>Additional tools (earlier web-development work)</summary>
+<summary>Additional achievements and experience</summary>
 
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+8th place — Sentiment Analysis of Code-Mixed Text, 2nd International Workshop on Computational Linguistics & Bangla Language Processing, 2023
+
+7th place — Multimodal Sentiment Analysis, 2nd International Workshop on Computational Linguistics & Bangla Language Processing, 2023
+
+Industrial Attachment, RedDot Digital Ltd. — image processing for tobacco-leaf quality classification, 2023
+
+Hacktoberfest contributor — 2021
+
+Google Code Jam I/O for Women — ranked 1729 globally, 2021
+
+Best Girl Programmer, BdSON October CodeRace — 2020
 
 </details>
 
-&nbsp;
+ 
 
-## 📫 Get in Touch
+🛠️ Skills
 
-I welcome conversations about PhD opportunities, research collaboration, and projects in medical imaging, continual learning, and AI for healthcare.
+Research & Machine Learning
 
-**Email:** [niditaroy@uvic.ca](mailto:niditaroy@uvic.ca) · **Portfolio:** [nidita.github.io](https://nidita.github.io/)
+
+
+
+
+
+
+
+
+Research Areas & Methods
+
+Continual Learning · Class-Incremental Learning · Medical Image Analysis · Multimodal Learning · Multiple-Instance Learning · Segmentation · Representation Learning
+
+<details>
+<summary>Additional programming and web-development tools</summary>
+
+
+
+
+
+
+
+
+
+
+
+</details>
+
+ 
+
+📫 Get in Touch
+
+I am interested in PhD opportunities and research collaborations in medical image analysis, continual learning, representation learning, multimodal healthcare AI, and clinically grounded machine learning.
+
+Email: niditaroy@uvic.ca · Portfolio: nidita.github.io · Google Scholar: Profileo:niditaroy@uvic.ca) · **Portfolio:** [nidita.github.io](https://nidita.github.io/)
