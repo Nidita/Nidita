@@ -3,7 +3,8 @@
 <a href="https://asherymbilinyi.github.io/"><img src="https://img.shields.io/badge/Medical%20Computer%20Vision%20Lab-University%20of%20Victoria-15423A?style=for-the-badge" alt="Medical Computer Vision Lab — University of Victoria" /></a>
 <a href="https://nidita.github.io/"><img src="https://img.shields.io/badge/Portfolio-nidita.github.io-15423A?style=for-the-badge" alt="Portfolio" /></a>
 
-<a href="mailto:niditaroy@uvic.ca"><img src="https://img.shields.io/badge/-niditaroy%40uvic.ca-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:niditaroy@uvic.ca"><img src="https://img.shields.io/badge/Institutional-niditaroy%40uvic.ca-15423A?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Institutional Email" /></a>
+<a href="mailto:nidita.roy1999@gmail.com"><img src="https://img.shields.io/badge/Personal-nidita.roy1999%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Personal Email" /></a>
 <a href="https://linkedin.com/in/nidita-roy-0537b31b0/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://scholar.google.com/citations?user=JVPYWQsAAAAJ&hl=en"><img src="https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
 <a href="https://github.com/Nidita"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -153,4 +154,7 @@ Candidate MRI datasets under consideration include **BraTS**, **AOMIC ID1000**, 
 
 I am interested in **PhD opportunities and research collaborations** in medical image analysis, continual learning, representation learning, multimodal healthcare AI, and clinically grounded machine learning.
 
-**Email:** [niditaroy@uvic.ca](mailto:niditaroy@uvic.ca) · **Portfolio:** [nidita.github.io](https://nidita.github.io/) · **Google Scholar:** [Profile](https://scholar.google.com/citations?user=JVPYWQsAAAAJ&hl=en)
+📧 **Institutional Email:** [niditaroy@uvic.ca](mailto:niditaroy@uvic.ca)  
+📧 **Personal Email:** [nidita.roy1999@gmail.com](mailto:nidita.roy1999@gmail.com)  
+🌐 **Portfolio:** [nidita.github.io](https://nidita.github.io/)  
+🎓 **Google Scholar:** [Profile](https://scholar.google.com/citations?user=JVPYWQsAAAAJ&hl=en)
